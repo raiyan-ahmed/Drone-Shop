@@ -1,0 +1,90 @@
+[
+    {
+        "id": "623fd302ad34fc024d30ab4b",
+        "name": "Drone-1",
+        "image": "images/drone-1.png",
+        "price": 203,
+        "stock": 5,
+        "seller": "Raiyan's Shop"
+    },
+    {
+        "id": "623fd302e9782a3184689d14",
+        "name": "Drone-2",
+        "image": "images/drone-2.png",
+        "price": 354,
+        "stock": 9,
+        "seller": "Raiyan's Shop"
+    },
+    {
+        "id": "623fd302f08ffd712aa5a2d8",
+        "name": "Drone-3",
+        "image": "images/drone-3.png",
+        "price": 386,
+        "stock": 9,
+        "seller": "Raiyan's Shop"
+    },
+    {
+        "id": "623fd30249640053fdbd6fe8",
+        "name": "Drone-4",
+        "image": "images/drone-4.png",
+        "price": 365,
+        "stock": 9,
+        "seller": "Raiyan's Shop"
+    },
+    {
+        "id": "623fd302c0e5c4a195091536",
+        "name": "Drone-5",
+        "image": "images/drone-5.png",
+        "price": 340,
+        "stock": 7,
+        "seller": "Raiyan's Shop"
+    },
+    {
+        "id": "623fd302545c86d3127bd4c0",
+        "name": "Drone-6",
+        "image": "images/drone-6.png",
+        "price": 380,
+        "stock": 7,
+        "seller": "Raiyan's Shop"
+    },
+    {
+        "id": "623fd3029c4481c0bc23a8c0",
+        "name": "Drone-7",
+        "image": "images/drone-7.png",
+        "price": 270,
+        "stock": 5,
+        "seller": "Raiyan's Shop"
+    },
+    {
+        "id": "623fd302478184cc8e1a4294",
+        "name": "Drone-8",
+        "image": "images/drone-8.png",
+        "price": 349,
+        "stock": 8,
+        "seller": "Raiyan's Shop"
+    },
+    {
+        "id": "623fd302fada94baf825b0db",
+        "name": "Drone-9",
+        "image": "images/drone-9.png",
+        "price": 393,
+        "stock": 8,
+        "seller": "Raiyan's Shop"
+    },
+    {
+        "id": "623fd30292a944e784b0a444",
+        "name": "Drone Accessories",
+        "image": "images/drone-10.png",
+        "price": 224,
+        "stock": 9,
+        "seller": "Raiyan's Shop"
+    },
+    {
+        "id": "623fd302319a01596b7963eb",
+        "name": "Drone-11",
+        "image": "images/drone-11.png",
+        "price": 272,
+        "stock": 8,
+        "seller": "Raiyan's Shop"
+    }
+]
